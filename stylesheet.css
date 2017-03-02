@@ -1,0 +1,58 @@
+body{
+	background-color: white;
+	margin:0;
+}
+
+div.container{
+	margin:auto;
+	width:80%;
+}
+
+div.description_container{
+	float:left;
+	padding-left:50px;
+}
+
+video{
+	float:left;
+}
+
+h1.logo{
+	color: rgb(222,222,222);
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 300%;
+	text-align: center;
+
+}
+
+h1.video_title{
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	text-align: center;
+}
+
+li{
+	font-family: Helvetica;
+	display:inline;
+}
+
+a{
+	
+	color: rgb(150,150,150);
+	text-align: center;
+	padding: 24px;
+	text-decoration: none;
+}
+
+#stellabanner{
+	width:100%;
+}
+
